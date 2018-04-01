@@ -1,0 +1,9 @@
+{
+  "name": "new-react-app",
+  "version": "1.0.0",
+  "description": "New react app withou create-react-app",
+  "main": "src/index.js",
+  "author": "Simon",
+  "license": "MIT",
+  "private": false
+}
