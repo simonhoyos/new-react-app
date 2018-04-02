@@ -5,6 +5,11 @@
   "main": "src/index.js",
   "author": "Simon",
   "license": "MIT",
+  "scripts": {
+    "build:production": "webpack --mode production",
+    "build:development": "webpack --mode development",
+    "start": "webpack-dev-server --mode development"
+  },
   "private": false,
   "devDependencies": {
     "babel-core": "^6.26.0",
